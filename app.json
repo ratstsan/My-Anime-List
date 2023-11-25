@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "TA_Ratstsan",
+    "slug": "TA_Ratstsan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/loading.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/loading.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/loading.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/loading.png"
+    }
+  }
+}
